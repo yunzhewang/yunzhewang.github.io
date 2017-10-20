@@ -448,3 +448,7 @@ footer {
     padding: 0.4in;
     font-size: 12pt;
     color: #444; } }
+body {
+  background-image: url("/assets/image/totoro.png");
+  background-size: contain;
+  background-attachment: fixed; }
