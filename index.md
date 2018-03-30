@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Link to another page](pages/second-page).
 
-[Link to another page](another-page).
-
+# This is the home page~

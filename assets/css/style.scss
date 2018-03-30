@@ -3,7 +3,8 @@
 @import "jekyll-theme-minimal";
 
 body {
-  background-image: url('{{ site.baseurl }}/assets/image/totoro.png');
-  background-size:     contain;
+  background-image: url('{{ site.baseurl }}/assets/image/background/totoro.png');
+  background-size: 1560px 1000px;
   background-attachment: fixed;
+  font-size: 20px;
 }
