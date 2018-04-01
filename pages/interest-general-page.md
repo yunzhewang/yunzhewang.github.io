@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Travel  ![travel](../assets/image/icons/sakura.svg){:class="img-responsive" height="25px" width="25px"}
-[visit my gallery](../assets/image/gallery)
+[visit my gallery](../assets/image/gallery/my_photo/tw1)
 
 * China
 	* Yangzhou
