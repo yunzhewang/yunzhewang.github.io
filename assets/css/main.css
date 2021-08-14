@@ -2593,10 +2593,8 @@ input, select, textarea {
 				transition: transform 0.5s ease;
 				position: relative;
 				display: block;
-				/*Yunzhe*/
-				border: solid 0.3em;
-				border-color: grey;
-
+				border: solid 0.1em;
+				border-color: #e6e6e6;
 				width: 100%;
 				border-radius: 4px;
 				overflow: hidden;
@@ -2843,7 +2841,7 @@ input, select, textarea {
 			display: block;
 			border-bottom: 0;
 			color: inherit;
-			font-weight: 900;     /*  HERE  */
+			font-weight: 900;     
 			letter-spacing: 0.35em;
 			margin: 0 0 2.5em 0;
 			text-decoration: none;
@@ -2862,8 +2860,8 @@ input, select, textarea {
 
 				#header .logo .symbol img {
 					display: block;
-					width: 15px;
-					height: 25px;
+					width: 2em;
+					height: 2em;
 				}
 
 		#header nav {
